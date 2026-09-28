@@ -48,7 +48,17 @@ Make sure that the balance is being shown correctly and the transactions have th
 
 F.**Screenshots**
 ##screenshot 1
-![Screenshots](Screenshots\main.png.png)
+![Screenshots](screenshot/main.png.png)
+
+##screenshot2
+![Screenshots](screenshot/expense.png.png)
+
+##screenshot3
+![Screenshots](screenshot/transaction.png)
+
+##screenshot4
+![Screenshots](screenshot/currentbalance.png)
+
 
 
 
