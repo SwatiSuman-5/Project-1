@@ -1,17 +1,20 @@
 import data 
 
+#Create a function to add money to the account
 def addmoney():
     amount=float(input("Enter amount to be added:"))
     category=input("Enter category:")
     transaction="Added|" + category + "| Rs" + str(amount)
     data.insertdatas(transaction)
 
+#Create a function to add expenses and to categorise them
 def addexpense():
     expense=float(input("Enter the expenses:"))
     category=input("Enter category of expense:")
     transaction= "expense|" + category + " |Rs" + str(expense)
     data.insertdatas(transaction)
 
+#Create a function that will allow you to see the trasactions
 def view():
     transactions=data.showdata()
 
@@ -22,6 +25,7 @@ def view():
         for i in range(len(transactions)):
             print(i + 1, ".",transactions[i])
 
+#Create a function to check the final balance by doing the necessary calculaton
 def checkbalance():
     global balance
     balance=0

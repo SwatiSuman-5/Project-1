@@ -1,5 +1,5 @@
 import account
-
+#menu driven program
 while True:
     print("\n----------------------------------------------------------------------------")
     print("                              EXPENSE TRACKER                                 ")
@@ -12,7 +12,7 @@ while True:
 
     choice=input("\nEnter your choice: ")
     if choice=="1":
-        account.addmoney()
+        account.addmoney() #importing function from account module
     elif choice=="2":
         account.addexpense()
     elif choice=="3":
@@ -24,7 +24,7 @@ while True:
         break
 
     else:
-        print("\nInvalid choice!")
+        print("\nInvalid choice!") #suitable message if choice is not chososen between 1-5
 
 
 
