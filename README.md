@@ -47,16 +47,16 @@ To test whether the code is working or not , follow these steps:
 Make sure that the balance is being shown correctly and the transactions have the correctly category as mentioned
 
 F.**Screenshots**
-##screenshot 1
+##main
 ![Main](screenshots/main.png)
 
-##screenshot2
+##expense
 ![Expense](screenshots/expense.png)
 
-##screenshot3
+##transaction
 ![Transaction](screenshots/transaction.png)
 
-##screenshot4
+##checkbalance
 ![Currentbalance](screenshots/currentbalance.png)
 
 
