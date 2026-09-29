@@ -40,8 +40,8 @@ To test whether the code is working or not , follow these steps:
 1.Run the Python program in Vs code
 2. Press 1. to add money to the account
 3. press 2. to add the expenses and the category
-4. Press 3 , tosee if the transactions are being shown correctly
-5. Press 4. to see the baqlance remaining
+4. Press 3. to see if the transactions are being shown correctly
+5. Press 4. to see the balance remaining
 6. Press 5. to exit the code
 
 Make sure that the balance is being shown correctly and the transactions have the correctly category as mentioned
