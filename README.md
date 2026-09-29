@@ -48,16 +48,16 @@ Make sure that the balance is being shown correctly and the transactions have th
 
 F.**Screenshots**
 ##screenshot 1
-![Screenshots](screenshot/main.png.png)
+![Main](screenshots/main.png)
 
 ##screenshot2
-![Screenshots](screenshot/expense.png.png)
+![Expense](screenshots/expense.png)
 
 ##screenshot3
-![Screenshots](screenshot/transaction.png)
+![Transaction](screenshots/transaction.png)
 
 ##screenshot4
-![Screenshots](screenshot/currentbalance.png)
+![Currentbalance](screenshots/currentbalance.png)
 
 
 
