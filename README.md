@@ -1,4 +1,4 @@
-EXPENSE TRACKER
+**EXPENSE TRACKER**
 
 A.**Project Overview**
 The expense tracker is a simple menu driven program which helps user to keep track of their balance,expenses and transactions.
