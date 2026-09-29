@@ -1,6 +1,6 @@
 #PROBLEM STATEMENT 
-Managing money can be a difficult task for many people. People often forgets where they are spending their money and lose track of their expenses.Without a tracking system these task can become so much challenging.
-A expense tracker can easily tackle these problem. It will include importnat feactureslike money added, expenses, category, remaining balance. It will hep people to keep tarck of their spending and to check their remaining balance.
+Managing money can be a difficult task for many people. People often forget where they are spending their money and lose track of their expenses. Without a tracking system these tasks can become so much challenging.
+A expense tracker can easily tackle these problem. It will include importnat features like money added, expenses, category, remaining balance. It will help people to keep track of their spending and to check their remaining balance.
 
 #Scope of the project
 This projects aim on making a expense tracker which helps human to keep track of their spending.
